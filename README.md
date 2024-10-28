@@ -23,4 +23,5 @@ An abstract-thinking developer with 18 years of professional experience in
 <p>
   <a href="https://github.com/adelisardo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/adelisardo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://monkeytype.com/profile/adelisardo" target="_blank"><img alt="Monkeytype" src="https://img.shields.io/badge/monkeytype-%23000000.svg?&style=for-the-badge&logo=monkeytype&logoColor=e2b714&textColor=e2b714" /></a>
 </p>
