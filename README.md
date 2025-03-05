@@ -1,8 +1,8 @@
 ## Hi there 👋
 An abstract-thinking developer with 18 years of professional experience in 
 .NET Framework (.NET), C#, Web, Windows and Mobile development.
-[comment]- 🔭 I’m currently working on Payamdaroosaz project at Pooya Pardazesh company.
-[comment]- 🌱 I’m currently learning the [Leafletjs](https://leafletjs.com/) library to implement tools that enable users to create and edit specialized geospatial data.
+<!--🔭 I’m currently working on Payamdaroosaz project at Pooya Pardazesh company. -->
+<!-- [comment]- 🌱 I’m currently learning the [Leafletjs](https://leafletjs.com/) library to implement tools that enable users to create and edit specialized geospatial data.-->
 <h3>I code with</h3>
 <p>
   <img alt=".NET" src="https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
